@@ -10,6 +10,6 @@ Join us in our journey as we blend traditional database management principles wi
 
 ### Our Students
 
--**2026:**  Z Pan (Phd-->Postdoc in The Chinese University of Hong Kong), L Chen (Phd-->ByteDacne Jindouyun Talent Plan), W Sun (Master-->Alibaba SP), L Ren (Master-->Staff Member in Shanghai Meteorological Bureau)
+- **2026:**  Z Pan (Phd-->Postdoc in The Chinese University of Hong Kong), L Chen (Phd-->ByteDacne Jindouyun Talent Plan), W Sun (Master-->Alibaba SP), L Ren (Master-->Staff Member in Shanghai Meteorological Bureau).
 - **2025:** Y Chen (Master-->Meituan SSP), G Yang (Master-->Didi SP), J Yang (Master-->Tencent SP).
 - **2024:** L Chen (Master-->ECNU Phd), R Chen (Master-->PingCAP SP), H Wang (Master-->ByteDance SSP), X Xiong (Master-->BYD), Q Wang (Phd--> Tencent Game SSP, cosupervised with Prof. R Zhang), K Li(Phd-->Assistant Professor in Fuzhou University, cosupervised with Prof. R Zhang).
